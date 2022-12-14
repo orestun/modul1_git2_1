@@ -1,0 +1,10 @@
+JDK 19 delivers language Improvements from OpenJDK
+project Amber (Record Patterns and Pattern Matching for Switch);
+library enhancements to interoperate with non-Java Code 
+(Foreign Function and Memory API) 
+and to leverage vector instructions (Vector API) 
+from OpenJDK project Panama; and the first previews for 
+Project Loom (Virtual Threads and Structured Concurrency),
+which will drastically reduce the effort required to write 
+and maintain high-throughput, 
+concurrent applications in Java.
