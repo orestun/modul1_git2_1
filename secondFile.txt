@@ -1,5 +1,7 @@
 ava SE lets you develop and deploy OpenJDK
  Java documentation has (Record Patterns and Pattern Matching for Switch);
+JDK 19 delivers language Improvements from OpenJDK 12
+project Amber (Record Patterns and Pattern Matching for Switch git);
 library enhancements to interoperate with non-Java Code 
 (Foreign Function and Memory API) 
 and to leverage vector instructions (Vector API) 
