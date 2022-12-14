@@ -1,5 +1,5 @@
-Oracle today announced the availability of Java 19,
-the latest version of the world’s number one programming language and development platform.
+Oracle today announced
+the world’s number one programming language and development platform.
 Java 19 (Oracle JDK 19) delivers thousands of performance, 
 stability, and security improvements, including enhancements to
 the platform that will help developers improve productivity
