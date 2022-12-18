@@ -1,5 +1,5 @@
-Oracle today announced
-the world’s number one programming language and development platform.
+-change- Oracle today announced
+-change- the world’s number one programming language and development platform.
 Java 19 different files there, delivers thousands of performance, 
 You can then decide if you want to continue with this particular file or not. including enhancements to
 the platform that will help developers improve productivity
