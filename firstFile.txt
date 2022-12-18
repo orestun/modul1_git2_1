@@ -1,7 +1,7 @@
 Oracle today announced
 the world’s number one programming language and development platform.
-Java 19 different files there, delivers thousands of performance, 
-You can then decide if you want to continue with this particular file or not. including enhancements to
+-changed- Java 19 different files there, delivers thousands of performance, 
+-changed- You can then decide if you want to continue with this particular file or not. including enhancements to
 the platform that will help developers improve productivity
 and drive business-wide innovation. Oracle will showcase the latest 
 capabilities in Java 19 at JavaOne 2022,

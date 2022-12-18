@@ -1,0 +1,24 @@
+From 8038bc3d20aa5cb40827a6bd1c0652bb1a822239 Mon Sep 17 00:00:00 2001
+From: orestun <orest.uzhytchak0001@gmail.com>
+Date: Wed, 14 Dec 2022 15:32:16 +0200
+Subject: [PATCH] modified 1-2 lines in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f1c757f..9c0a46b 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Oracle today announced the availability of Java 19,
+-the latest version of the world’s number one programming language and development platform.
++Oracle today announced
++the world’s number one programming language and development platform.
+ Java 19 (Oracle JDK 19) delivers thousands of performance, 
+ stability, and security improvements, including enhancements to
+ the platform that will help developers improve productivity
+-- 
+2.33.0.windows.2
+
